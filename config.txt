@@ -1,1 +1,2 @@
 Some cnfigsettings in remote
+And a new feature from local
